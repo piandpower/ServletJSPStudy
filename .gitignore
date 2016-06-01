@@ -33,6 +33,7 @@ nb-configuration.xml
 .recommenders
 Servers
 RemoteSystemsTempFiles
+Hello/
 
 # Intellij
 .idea/
